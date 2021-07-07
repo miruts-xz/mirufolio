@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/mirufolio/static/css/main.6098c46a.chunk.css",
+    "main.js": "/mirufolio/static/js/main.6fb70666.chunk.js",
+    "main.js.map": "/mirufolio/static/js/main.6fb70666.chunk.js.map",
+    "runtime-main.js": "/mirufolio/static/js/runtime-main.c0d742eb.js",
+    "runtime-main.js.map": "/mirufolio/static/js/runtime-main.c0d742eb.js.map",
+    "static/js/2.1fd94879.chunk.js": "/mirufolio/static/js/2.1fd94879.chunk.js",
+    "static/js/2.1fd94879.chunk.js.map": "/mirufolio/static/js/2.1fd94879.chunk.js.map",
+    "static/js/3.308af4fb.chunk.js": "/mirufolio/static/js/3.308af4fb.chunk.js",
+    "static/js/3.308af4fb.chunk.js.map": "/mirufolio/static/js/3.308af4fb.chunk.js.map",
+    "index.html": "/mirufolio/index.html",
+    "static/css/main.6098c46a.chunk.css.map": "/mirufolio/static/css/main.6098c46a.chunk.css.map",
+    "static/js/2.1fd94879.chunk.js.LICENSE.txt": "/mirufolio/static/js/2.1fd94879.chunk.js.LICENSE.txt",
+    "static/media/mire.0fa13116.jpg": "/mirufolio/static/media/mire.0fa13116.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c0d742eb.js",
+    "static/js/2.1fd94879.chunk.js",
+    "static/css/main.6098c46a.chunk.css",
+    "static/js/main.6fb70666.chunk.js"
+  ]
+}
