@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import mire from './assets/images/mire.jpg'
 import './App.css';
 
