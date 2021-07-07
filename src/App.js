@@ -1,21 +1,22 @@
 import logo from './logo.svg';
+import mire from './assets/images/mire.jpg'
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <img src={mire} className="App-logo" alt="logo" />
         <p>
           Hello, My name is Miruts Hadush
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://github.com/miruts"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Software Developer
         </a>
       </header>
     </div>
